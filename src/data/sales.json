@@ -1,0 +1,343 @@
+[
+  {
+    "id": "70010000003209",
+    "title": "Hades",
+    "publisher": "Supergiant Games",
+    "genres": ["アクション", "ローグライク", "RPG"],
+    "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 2800,
+    "discountPrice": 1400,
+    "discountRate": 50,
+    "saleEndsAt": "2026-11-20T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D7001000003209",
+    "score": {
+      "metacritic": 93,
+      "userScore": 9.0,
+      "steamPositiveRate": 98,
+      "tier": "legendary"
+    },
+    "shortReview": "ギリシャ神話を舞台にした屈指の傑作。死ぬたびに物語が進み強くなる抜群の中毒性と爽快なアクションが融合！",
+    "recommendedFor": ["アクション好き", "やり込み派", "神話好き"],
+    "highlights": ["GOTY多数受賞の超名作", "テンポの良い爽快ハクスラ", "魅力的なキャラクター群"],
+    "isEditorChoice": true
+  },
+  {
+    "id": "70010000001521",
+    "title": "Hollow Knight (ホロウナイト)",
+    "publisher": "Team Cherry",
+    "genres": ["アクション", "アドベンチャー", "探索"],
+    "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 1480,
+    "discountPrice": 740,
+    "discountRate": 50,
+    "saleEndsAt": "2026-11-18T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000001521",
+    "score": {
+      "metacritic": 90,
+      "userScore": 9.1,
+      "steamPositiveRate": 97,
+      "tier": "legendary"
+    },
+    "shortReview": "広大な地下昆虫帝国を巡るメトロイドヴァニアの金字塔。手応えあるボス戦と退廃的で美しい世界観は圧巻。",
+    "recommendedFor": ["メトロイドヴァニア好き", "高難易度好き", "探索派"],
+    "highlights": ["圧倒的なボリュームと緻密なマップ", "美しい手描きアニメーション", "歯ごたえ抜群の戦闘"],
+    "isEditorChoice": true
+  },
+  {
+    "id": "70010000003782",
+    "title": "Celeste (セレステ)",
+    "publisher": "Matt Makes Games",
+    "genres": ["アクション", "プラットフォーマー"],
+    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 2160,
+    "discountPrice": 540,
+    "discountRate": 75,
+    "saleEndsAt": "2026-11-15T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000003782",
+    "score": {
+      "metacritic": 92,
+      "userScore": 8.7,
+      "steamPositiveRate": 97,
+      "tier": "legendary"
+    },
+    "shortReview": "過酷な霊峰セレステ山を登る感動の物語。ミスしても1秒で即リトライできる驚異の操作性と神BGMが最高峰。",
+    "recommendedFor": ["2Dアクション好き", "諦めない心がある人", "BGM重視派"],
+    "highlights": ["死にゲー屈指の快適なリトライ設計", "メンタルヘルスを描いた心温まる物語", "珠玉のチップチューンサウンド"],
+    "isEditorChoice": true
+  },
+  {
+    "id": "70010000018882",
+    "title": "Slay the Spire",
+    "publisher": "Humble Games",
+    "genres": ["ローグライク", "カードゲーム", "ストラテジー"],
+    "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 2570,
+    "discountPrice": 1028,
+    "discountRate": 60,
+    "saleEndsAt": "2026-11-22T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000018882",
+    "score": {
+      "metacritic": 89,
+      "userScore": 8.5,
+      "steamPositiveRate": 97,
+      "tier": "masterpiece"
+    },
+    "shortReview": "デッキ構築型ローグライクの原点にして最高峰。一度プレイを始めると朝まで止まらなくなる時間泥棒ゲーム！",
+    "recommendedFor": ["カードゲーム好き", "思考派", "100時間遊べるゲームを探している人"],
+    "highlights": ["デッキ構築×ローグライクの至高のバランス", "何度遊んでも新鮮な毎回違う展開", "Switchの携帯モードとの相性抜群"],
+    "isEditorChoice": true
+  },
+  {
+    "id": "70010000012345",
+    "title": "Ori and the Will of the Wisps",
+    "publisher": "iam8bit",
+    "genres": ["アクション", "アドベンチャー", "探索"],
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 3520,
+    "discountPrice": 1760,
+    "discountRate": 50,
+    "saleEndsAt": "2026-11-25T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000012345",
+    "score": {
+      "metacritic": 93,
+      "userScore": 8.9,
+      "steamPositiveRate": 96,
+      "tier": "legendary"
+    },
+    "shortReview": "まるで絵画が動いているかのような圧巻の映像美と感動のストーリー。滑らかなアクションで駆け抜ける爽快感！",
+    "recommendedFor": ["映像美重視派", "泣けるゲーム好き", "アクション冒険好き"],
+    "highlights": ["圧倒的なグラフィックとオーケストラ楽曲", "直感的かつアクロバティックな移動アクション", "前作を超える重厚な物語"]
+  },
+  {
+    "id": "70010000001150",
+    "title": "UNDERTALE",
+    "publisher": "ハチノヨン",
+    "genres": ["RPG", "アドベンチャー"],
+    "imageUrl": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 1620,
+    "discountPrice": 1085,
+    "discountRate": 33,
+    "saleEndsAt": "2026-11-19T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000001150",
+    "score": {
+      "metacritic": 93,
+      "userScore": 8.8,
+      "steamPositiveRate": 96,
+      "tier": "legendary"
+    },
+    "shortReview": "誰も死ななくていいやさしいRPG。弾幕回避バトルと心揺さぶるストーリー、忘れられない名曲の数々。",
+    "recommendedFor": ["ストーリー重視派", "MOTHERシリーズ好き", "神曲に出会いたい人"],
+    "highlights": ["戦わずに和解できる独自の戦闘システム", "プレイヤーの行動で変化するマルチ結末", "世界的人気を誇る楽曲の数々"]
+  },
+  {
+    "id": "70010000009643",
+    "title": "Dead Cells",
+    "publisher": "Motion Twin",
+    "genres": ["アクション", "ローグライク"],
+    "imageUrl": "https://images.unsplash.com/photo-1579373903781-fd5c0c30c4cd?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 2480,
+    "discountPrice": 1240,
+    "discountRate": 50,
+    "saleEndsAt": "2026-11-21T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000009643",
+    "score": {
+      "metacritic": 89,
+      "userScore": 8.3,
+      "steamPositiveRate": 97,
+      "tier": "masterpiece"
+    },
+    "shortReview": "ローグライト×メトロイドヴァニア（ローグヴァニア）。スピーディで爽快なハクスラアクションの決定版！",
+    "recommendedFor": ["近接アクション好き", "ハクスラ好き", "スピード感重視派"],
+    "highlights": ["無限に遊べる豊富な武器・ビルドの組み合わせ", "手触り抜群の高速コンバット", "数多くの無料アップデート実績"]
+  },
+  {
+    "id": "70010000034600",
+    "title": "モンスターハンターライズ",
+    "publisher": "カプコン",
+    "genres": ["アクション", "ハンティング"],
+    "imageUrl": "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 3990,
+    "discountPrice": 990,
+    "discountRate": 75,
+    "saleEndsAt": "2026-11-26T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000034600",
+    "score": {
+      "metacritic": 88,
+      "userScore": 8.4,
+      "steamPositiveRate": 86,
+      "tier": "masterpiece"
+    },
+    "shortReview": "翔蟲（かけりむし）による立体的な高速アクションと手軽な狩猟体験。990円は破格中の破格！",
+    "recommendedFor": ["友達とマルチプレイしたい人", "ハクスラ好き", "大作アクション好き"],
+    "highlights": ["75%OFF・アンダー1000円の圧倒的コスパ", "フィールドを縦横無尽に駆け巡る疾走感", "初心者でも入りやすい親切設計"],
+    "isEditorChoice": true
+  },
+  {
+    "id": "70010000057200",
+    "title": "デイヴ・ザ・ダイバー (DAVE THE DIVER)",
+    "publisher": "MINTROCKET",
+    "genres": ["アドベンチャー", "シミュレーション", "RPG"],
+    "imageUrl": "https://images.unsplash.com/photo-1682687220063-4742bd7fd538?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 2400,
+    "discountPrice": 1680,
+    "discountRate": 30,
+    "saleEndsAt": "2026-11-23T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000057200",
+    "score": {
+      "metacritic": 90,
+      "userScore": 8.9,
+      "steamPositiveRate": 97,
+      "tier": "legendary"
+    },
+    "shortReview": "昼は青い海を探検して魚を獲り、夜は寿司屋を経営！多彩なミニゲームと飽きさせない展開が詰まった超話題作。",
+    "recommendedFor": ["経営シミュ好き", "探索好き", "ゆったり遊べるゲームを探している人"],
+    "highlights": ["海洋探索×寿司屋経営の抜群のループ性", "愛嬌たっぷりのドットアニメーション", "膨大なミニゲームとやりこみ要素"]
+  },
+  {
+    "id": "70010000001050",
+    "title": "Stardew Valley (スターデューバレー)",
+    "publisher": "ConcernedApe",
+    "genres": ["シミュレーション", "RPG", "スローライフ"],
+    "imageUrl": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 1480,
+    "discountPrice": 990,
+    "discountRate": 33,
+    "saleEndsAt": "2026-11-20T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000001050",
+    "score": {
+      "metacritic": 91,
+      "userScore": 8.9,
+      "steamPositiveRate": 98,
+      "tier": "legendary"
+    },
+    "shortReview": "祖父から受け継いだ荒れた農場を再生させる農場経営ライフ。農業・畜産・釣り・鉱山探索・住民との交流が無限に楽しい。",
+    "recommendedFor": ["スローライフ好き", "牧場物語好き", "コツコツ作業が好きな人"],
+    "highlights": ["何百時間も遊べる圧倒的中毒性", "最大4人のマルチプレイ対応", "温かみのあるドット絵グラフィック"]
+  },
+  {
+    "id": "70010000013580",
+    "title": "Into the Breach",
+    "publisher": "Subset Games",
+    "genres": ["シミュレーション", "ストラテジー", "パズル"],
+    "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 1520,
+    "discountPrice": 760,
+    "discountRate": 50,
+    "saleEndsAt": "2026-11-17T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000013580",
+    "score": {
+      "metacritic": 89,
+      "userScore": 8.1,
+      "steamPositiveRate": 94,
+      "tier": "masterpiece"
+    },
+    "shortReview": "8×8の盤面で巨大昆虫から都市を守る詰め将棋型ターン制戦略ゲーム。敵の行動が完全に見えているからこその超知能戦！",
+    "recommendedFor": ["戦略・パズル好き", "将棋・チェス好き", "短時間で頭を使いたい人"],
+    "highlights": ["運要素を排除した究極のタクティクス", "1回のプレイが手軽でリプレイ性抜群", "数々のゲームアワードを受賞"]
+  },
+  {
+    "id": "70010000038800",
+    "title": "Tetris® Effect: Connected",
+    "publisher": "Enhance",
+    "genres": ["パズル", "音楽"],
+    "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 4500,
+    "discountPrice": 2250,
+    "discountRate": 50,
+    "saleEndsAt": "2026-11-24T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000038800",
+    "score": {
+      "metacritic": 94,
+      "userScore": 8.6,
+      "steamPositiveRate": 95,
+      "tier": "legendary"
+    },
+    "shortReview": "光と音のシンクロがもたらす極上のトリップ体験。テトリスを全く新しい芸術へと昇華させた共感覚パズルの傑作！",
+    "recommendedFor": ["パズル好き", "音楽・音ゲー好き", "リラックスしたい人"],
+    "highlights": ["Metacritic驚異の94点", "音とビジュアルが操作と連動する心地よさ", "協力マルチプレイ『CONNECTED』モード搭載"]
+  },
+  {
+    "id": "70010000021500",
+    "title": "A Short Hike",
+    "publisher": "Whippoorwill",
+    "genres": ["アドベンチャー", "オープンワールド", "癒やし"],
+    "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 850,
+    "discountPrice": 510,
+    "discountRate": 40,
+    "saleEndsAt": "2026-11-16T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000021500",
+    "score": {
+      "metacritic": 88,
+      "userScore": 8.7,
+      "steamPositiveRate": 99,
+      "tier": "masterpiece"
+    },
+    "shortReview": "電波の届く山頂を目指す、ちいさな小鳥のちいさな登山アドベンチャー。滑空する風の心地よさと優しい島民たちとの対話に癒やされる。",
+    "recommendedFor": ["忙しくて時間が取れない人", "優しい世界に浸りたい人", "オープンワールド好き"],
+    "highlights": ["約2〜3時間で完結する最高の濃縮体験", "Steam評価99%の圧倒的人気", "500円前後の手軽な価格"]
+  },
+  {
+    "id": "70010000015500",
+    "title": "逆転裁判123 成歩堂セレクション",
+    "publisher": "カプコン",
+    "genres": ["アドベンチャー", "ミステリー", "法廷バトル"],
+    "imageUrl": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 3362,
+    "discountPrice": 990,
+    "discountRate": 70,
+    "saleEndsAt": "2026-11-26T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000015500",
+    "score": {
+      "metacritic": 81,
+      "userScore": 8.7,
+      "steamPositiveRate": 96,
+      "tier": "great"
+    },
+    "shortReview": "「異議あり！」でおなじみ法廷バトルの金字塔初期3部作が1つに！証言の矛盾を突き崩す爽快感と伏線回収ストーリーが秀逸。",
+    "recommendedFor": ["ミステリー・推理好き", "名作ストーリーを追いたい人", "コスパ重視派"],
+    "highlights": ["3作分合計14話収録の超大ボリューム", "70%OFF・990円の激安プライス", "個性豊かなキャラクターと熱いBGM"]
+  },
+  {
+    "id": "70010000048900",
+    "title": "十三機兵防衛圏",
+    "publisher": "アトラス",
+    "genres": ["アドベンチャー", "シミュレーション", "SF"],
+    "imageUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 7678,
+    "discountPrice": 3839,
+    "discountRate": 50,
+    "saleEndsAt": "2026-11-20T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000048900",
+    "score": {
+      "metacritic": 88,
+      "userScore": 8.9,
+      "steamPositiveRate": 94,
+      "tier": "masterpiece"
+    },
+    "shortReview": "13人の主人公の視点から描かれる奇跡のSFミステリー群像劇。複雑に絡み合う時空と謎が解き明かされたときの鳥肌は一生モノ。",
+    "recommendedFor": ["重厚なSF・ミステリー好き", "伏線回収に唸りたい人", "ヴァニラウェアのグラフィックが好きな人"],
+    "highlights": ["シナリオの完成度が絶賛された現代の傑作", "息をのむ美しさの2Dアニメーション", "タワーディフェンス戦闘パートの爽快感"]
+  },
+  {
+    "id": "70010000002130",
+    "title": "Overcooked! 2 - オーバークック2",
+    "publisher": "Team17",
+    "genres": ["パーティー", "アクション", "クッキング"],
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=600&q=80",
+    "regularPrice": 2750,
+    "discountPrice": 687,
+    "discountRate": 75,
+    "saleEndsAt": "2026-11-18T23:59:59+09:00",
+    "storeUrl": "https://store-jp.nintendo.com/item/software/D70010000002130",
+    "score": {
+      "metacritic": 81,
+      "userScore": 7.9,
+      "steamPositiveRate": 90,
+      "tier": "great"
+    },
+    "shortReview": "大混乱の厨房で仲間と協力して料理を作るハチャメチャクッキングアクション。家族や友達とプレイすれば爆笑必至！",
+    "recommendedFor": ["家族・友達とワイワイ遊びたい人", "マルチプレイ好き", "パーティーゲーム派"],
+    "highlights": ["オンライン＆ローカル協力プレイ対応", "75%OFF・687円の超お買い得価格", "食材を投げる新アクションで連携がさらに熱い"]
+  }
+]
